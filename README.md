@@ -5,7 +5,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaobatistafrontend&show_icons=true&count_private=true&hide_border=true&title_color=32CD32&icon_color=32CD32&text_color=32CD32&bg_color=0d1117" alt="joao batista" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=228B22&text_color=228B22&bg_color=1C1C1C" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobatistafrontend&layout=compact&hide_border=true&title_color=228B22&text_color=228B22&bg_color=1C1C1C" />
 </div>
 
 
@@ -33,7 +33,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joaobatistafrfontend}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joaobatistafontend}/count.svg" /></p> 
 <br>
 </div>
 
